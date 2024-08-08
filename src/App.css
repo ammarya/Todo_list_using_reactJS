@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+
+}
+
+.iconButton {
+  transition: all 0.2s !important;
+  -webkit-transition: all 0.2s !important;
+  -moz-transition: all 0.2s !important;
+  -ms-transition: all 0.2s !important;
+  -o-transition: all 0.2s !important;
+}
+
+.iconButton:hover {
+  background-color: #c5c5c5 !important;
+  box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+
+}
+
+.todoCard {
+  transition: all 0.2s !important;
+  -webkit-transition: all 0.2s !important;
+  -moz-transition: all 0.2s !important;
+  -ms-transition: all 0.2s !important;
+  -o-transition: all 0.2s !important;
+}
+
+.todoCard:hover {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+
+/* custom fonts */
+
+@font-face {
+  font-family: Kode-Mono;
+  src: url('/public/fonts/KodeMono-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Kode-Mono;
+  src: url('/public/fonts/KodeMono-Medium.ttf');
+  font-weight: Medium;
+}
+
+@font-face {
+  font-family: Kode-Mono;
+  src: url('/public/fonts/KodeMono-SemiBold.ttf');
+  font-weight: Bold;
+}
+
+@font-face {
+  font-family: Kode-Mono;
+  src: url('/public/fonts/KodeMono-Bold.ttf');
+  font-weight: bolder;
+}
+
+
+/*======= custom fonts======= */
