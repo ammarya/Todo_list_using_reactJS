@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/todo_list_using_react_js/static/css/main.bd58b0c9.css",
+    "main.js": "/todo_list_using_react_js/static/js/main.bba61eca.js",
+    "static/js/453.7a5e68f6.chunk.js": "/todo_list_using_react_js/static/js/453.7a5e68f6.chunk.js",
+    "static/media/KodeMono-Medium.ttf": "/todo_list_using_react_js/static/media/KodeMono-Medium.618f8c33baaefe0d819b.ttf",
+    "static/media/KodeMono-SemiBold.ttf": "/todo_list_using_react_js/static/media/KodeMono-SemiBold.eb8c82b4354c0bbad6a2.ttf",
+    "static/media/KodeMono-Regular.ttf": "/todo_list_using_react_js/static/media/KodeMono-Regular.1eb66851d26f9ce2c668.ttf",
+    "static/media/KodeMono-Bold.ttf": "/todo_list_using_react_js/static/media/KodeMono-Bold.ced2cde443709ad61dac.ttf",
+    "index.html": "/todo_list_using_react_js/index.html",
+    "main.bd58b0c9.css.map": "/todo_list_using_react_js/static/css/main.bd58b0c9.css.map",
+    "main.bba61eca.js.map": "/todo_list_using_react_js/static/js/main.bba61eca.js.map",
+    "453.7a5e68f6.chunk.js.map": "/todo_list_using_react_js/static/js/453.7a5e68f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd58b0c9.css",
+    "static/js/main.bba61eca.js"
+  ]
+}
